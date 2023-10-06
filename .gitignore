@@ -1,0 +1,6 @@
+.env
+*.db
+python_bot
+gotovii_cod.py
+poproboval_sam.py
+.idea
